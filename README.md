@@ -14,7 +14,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/ssshojaei/locky/blob/master/readme/screenshots.jpg?raw=true)
+<img src="https://github.com/ssshojaei/locky/blob/master/readme/screenshots.jpg?raw=true" alt="screenshot">
 
 Using Locky, you can lock and unlock your desktop in these ways
 
