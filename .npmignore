@@ -1,0 +1,7 @@
+_ignore/
+docs/
+builds/
+dist/
+.editorconfig
+code-of-conduct.md
+node_modules

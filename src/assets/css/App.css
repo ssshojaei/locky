@@ -1,0 +1,23 @@
+/* Main CSS file */
+
+@import 'rsuite/dist/styles/rsuite-dark.css';
+
+html,
+body,
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.info-link {
+  margin-right: 10px;
+}
+
+.info-link:hover {
+  cursor: pointer;
+}
