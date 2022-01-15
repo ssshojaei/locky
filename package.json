@@ -41,7 +41,7 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "rsuite": "^4.8.0",
-    "shelljs": "^0.8.4"
+    "shelljs": "^0.8.5"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
